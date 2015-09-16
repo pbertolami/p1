@@ -2,7 +2,7 @@
 
 ----
 ## Project 1
-see [p1.bluedoglobsterroll.com](http://bluedoglobsterroll.com/)
+see [project-1.bluedoglobsterroll.com](http://project-1.bluedoglobsterroll.com/)
 
 > Project one is a single page website using basic HTML and CSS with the following information:.
 
